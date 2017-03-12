@@ -1,0 +1,8 @@
+table {
+    width: 50%;
+    border: solid black 2px;
+}
+
+thead {
+    background-color: beige;
+}
